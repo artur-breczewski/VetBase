@@ -1,0 +1,25 @@
+#mainWidget {
+    background-color: transparent;
+}
+
+QPushButton#menuButton {
+    background-color: #2d89ef;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid #185abd;
+}
+
+QPushButton#menuButton:hover {
+    background-color: #1e5ea8;
+}
+
+QPushButton#menuButton:pressed {
+    background-color: #185abd;
+}
+
+QLabel {
+    color: white;
+    font-size: 18px;
+}
