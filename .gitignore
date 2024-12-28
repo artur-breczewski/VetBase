@@ -1,0 +1,15 @@
+# Pliki środowiska wirtualnego
+venv/
+*.pyc
+__pycache__/
+
+# Pliki tymczasowe
+*.log
+*.sqlite3
+
+# Klucze bezpieczeństwa i dane wrażliwe
+email_service.py
+
+# Systemowe pliki tymczasowe
+.DS_Store
+Thumbs.db
